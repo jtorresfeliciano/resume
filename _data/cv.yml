@@ -1,0 +1,130 @@
+url: https://jtorresfeliciano.github.io
+projectUrl: jekyl-cv-crafter
+
+# leave blank fields which you don't want to fill/be displayed
+person:
+  name: Jose Torres
+  depiction: portrait.jpeg
+  profession: IT Professional
+  location: Colombus, OH
+  citizenship: USA
+  email: jose.torres.feliciano@gmail.com
+  #site: http://mikeystmnt.com
+  phone: (787) 457-7392
+  github: /jtorresfeliciano
+  #stackoverflow: /jjtorres
+  linkedin: /jose-torres-feliciano
+
+career:
+ - position: Cyber Security Engineer
+   company: Analog Devices Inc.
+   location: Temple Terrace, FL
+   dates: October 2017 - December 2018
+   summary: Support an existing cybersecurity organization in modeling and virtualizing a cyber-physical system such as industrial control or factory automation for training purposes.
+   accomplishments:
+    - accomplishment: Assess and create IT security scenarios for ADI’s Cyber Range platform.
+    - accomplishment: Support and administration of backend infrastructure under VMware solutions such as vCloud, VRealize, NSX as well as OpenStack.
+    - accomplishment: Built scenarios under Ixia’s Breaking Appliance for network simulations and attacks.
+    - accomplishment: Develop VRealize blueprints for automation of VMware tasks.
+    - accomplishment: Develop ansible playbooks and python scripts for automation of OpenStack tasks on Ansible Tower.
+    - accomplishment: Deployment and management of WSUS environment for Windows Server infrastructure.
+    - accomplishment: Reviewed vulnerability scanner findings and provided support for their remediation.
+    - accomplishment: Liaison for ADI’s SecOps team to address and comply with corporate security standard on the ADI’s Cyber Range network.
+    - accomplishment: Developed organizational units in Active Directory (AD) and managed user security with group policies.
+    - accomplishment: Deployment and management of Duo two factor authentication for Windows Server infrastructure.
+    - accomplishment: Provisioning and management of Docker containers to support ADI’s Cyber Range platform.
+    - accomplishment: Administration of Cisco and Dell switches and Cisco ASA on ADI’s Cyber Range network.
+    - accomplishment: Maintain proper documentation of projects using Atlassian Jira, Bitbucket and Confluence.
+ - position: IT Security Analyst
+   company: Publix Super Markets Inc.
+   location: Lakeland, FL
+   dates: April 2017 – October 2017
+   summary: Analyst for the security operation team to assess security events.
+   accomplishments:
+    - accomplishment: Monitoring of Barracuda appliance for indicators of credential farming and malware campaigns.
+    - accomplishment: Performed investigations regarding information security events.
+    - accomplishment: Review and submit intel data from phishing campaigns to the Retail Cyber Intelligence Sharing Center (R-CISC).
+ - position: IT Department Manager
+   company: CIRACET Corp.
+   location: Ponce, PR
+   dates: November 2015 – March 2017
+   #summary: 
+   accomplishments:
+    - accomplishment: Managed a team of four engineers and information technology professionals.
+    - accomplishment: Facilitated server builds and network configurations, including migration of clients to a virtual environment using VMware.
+    - accomplishment: Led a team that developed and programmed a database and web application for hospital asset management.
+    - accomplishment: Developed organizational units in Active Directory (AD) and managed user security with group policies.
+    - accomplishment: Administrator of Maringo Project Management software for SAP Business One.
+    - accomplishment: Development of documentation toward the compliance of ISO 9001:2015 for IT services. These included work instructions, forms, standard operating instructions, policies and procedures, such as procedures for the security of daily operations, A/V management, firewall rules, vulnerability scanning using Nessus professional, change control and user education.
+    - accomplishment: Performed investigations regarding information security events for Microsoft Windows, A/V and IDS alerts.
+    - accomplishment: Administrator of VMware ESXi and Hyper-V servers, including backup operations with Veeam backup and replication.
+    - accomplishment: Performed internal and external risk assessments for HIPAA compliance.
+ - position: Senior HIT Consultant
+   company: CIRACET Corp.
+   location: Ponce, PR
+   dates: January 2014 – October 2015
+ - position: HIT Consultant
+   company: CIRACET Corp.
+   location: Ponce, PR
+   dates: January 2010 – December 2013
+ - position: IT System Analyst
+   company: CIRACET Corp.
+   location: Ponce, PR
+   dates: March 2009 – December 2009
+
+technicalSkills:
+  list:
+    - tr: "Networking: Domain Management, Firewalls, VPNs, FortiGate Management"
+    - tr: "Security: Firewalls Policies, Group Policies, Risk Assessment, Risk Management, SIEM"
+    - tr: "Operating Systems: Microsoft Windows, Linux (Ubuntu, CentOS), macOS"
+    - tr: "Automation: Ansible, Python"
+    - tr: "Virtualization: OpenStack, VMware"
+    - tr: "Health IT: Meaningful Use, PQRI reporting, EHR documentation"
+    - tr: "Regulations: HIPAA, PCI"
+    - tr: "Project Management: PMI framework"
+  backend:
+   - name: Networking
+     level: 70
+   - name: VMware
+     level: 70
+   - name: OpenStack
+     level: 60
+   - name: Windows OS
+     level: 100
+   - name: Linux (CentOS/Ubuntu)
+     level: 70
+  frontend:
+   - name: Python
+     level: 50
+   - name: Ansible
+     level: 60
+  other:
+   - name: Shadow Puppet Skill
+     level: 90
+   - name: Teaching
+     level: 100
+
+sideProjects:
+  - name: jekyll-clean-dark
+    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
+    link: https://github.com/streetturtle/jekyll-clean-dark
+    type: github
+    langs: HTML/CSS/Bootstrap
+
+  - name: number-writing-trainer
+    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
+    link: http://pavelmakhov.com/number-writing-trainer/#/
+    type: site
+    langs: AngularJS/HTML/CSS/Bootstrap
+
+education:
+  - name: Universidad del Turabo
+    degree: MS Telecommunications and Networks
+    location: Gurabo, PR
+    dates: 2015 – 2017 (in progress)
+    link: http://ut.suagm.edu/es/ingenieria/ms-adm-sistemas-telecom-redes
+  - name: Universidad Interamericana de PR
+    degree: BS Telecommunications and Networks
+    location: Ponce, PR
+    dates: 2005 – 2008
+    link: http://ponce.inter.edu/
