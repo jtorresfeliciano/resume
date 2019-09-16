@@ -109,6 +109,8 @@ technicalSkills:
      level: 70
    - name: VMware
      level: 70
+   - name: Hyper-V
+     level: 70
    - name: OpenStack
      level: 60
    - name: Windows OS
