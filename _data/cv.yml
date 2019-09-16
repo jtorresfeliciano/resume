@@ -9,13 +9,33 @@ person:
   location: Colombus, OH
   citizenship: USA
   email: jose.torres.feliciano@gmail.com
-  #site: http://mikeystmnt.com
+  #site: https://blog.uphillsecurity.com
   phone: (787) 457-7392
   github: /jtorresfeliciano
   #stackoverflow: /jjtorres
   linkedin: /jose-torres-feliciano
 
 career:
+ - position: Bilingual Support Engineer
+   company: Veeam Inc.
+   location: Columbus, OH
+   dates: April 2019 - Present
+   summary: Provides inbound technical support for Veeam Backup and Replication software.
+   accomplishments:
+    - accomplishment: Provide technical support and troubleshooting for Veeam Software’s clients via telephone, email, and web conferencing for English and Spanish speaking customers.
+    - accomplishment: Performed careful examination of many infrastructures and other environmental variables, as well as a detailed analysis of log files to troubleshoot customer problems and inquiries.
+    - accomplishment: Provide support on troubleshooting issues between Veeam Software and WMware\Hyper-V hypervisors.
+    - accomplishment: Research and troubleshoot Microsoft VSS components problem when creating point-in-time snapshots for backup operations.
+    - accomplishment: Assist customers in solving networking issues for the communication of their backup infrastructure.
+    - accomplishment: Provide best practices to customers to achieve better backup performance and to secure their backup information.
+ - position: Professional Services
+   company: CIRACET Corp.
+   location: Ponce, PR
+   dates: January 2019 - March 2019
+   #summary: 
+   accomplishments:
+    - accomplishment: Assist in the conversion of data from the legacy system of “Hospital Oncológico Dr. Isaac González Martínez” to MEDITECH EHR.
+    - accomplishment: Provide technical support for the implementation of MEDITECH hospital information system on the IT and Clinical modules.  
  - position: Cyber Security Engineer
    company: Analog Devices Inc.
    location: Temple Terrace, FL
@@ -42,6 +62,8 @@ career:
    summary: Analyst for the security operation team to assess security events.
    accomplishments:
     - accomplishment: Monitoring of Barracuda appliance for indicators of credential farming and malware campaigns.
+    - accomplishment: Performed investigations regarding information security events for Microsoft Windows, RSA SecurID, UNIX, McAfee and IDS alerts.
+    - accomplishment: Provided upper management with security metrics of the email monitoring program using the MITRE ATT&CK framework.
     - accomplishment: Performed investigations regarding information security events.
     - accomplishment: Review and submit intel data from phishing campaigns to the Retail Cyber Intelligence Sharing Center (R-CISC).
  - position: IT Department Manager
