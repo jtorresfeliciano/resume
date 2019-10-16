@@ -123,9 +123,7 @@ technicalSkills:
    - name: Ansible
      level: 60
   other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
+   - name: Veeam Backup and Replication
      level: 100
 
 sideProjects:
